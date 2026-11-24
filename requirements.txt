@@ -1,0 +1,4 @@
+numpy>=1.22
+matplotlib>=3.5
+pyadi-iio>=0.0.16
+pylibiio==0.25        # must match the installed libiio C library (0.25); libiio 1.x has a different API
